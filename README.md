@@ -1,0 +1,1 @@
+Foi usando variáveis, `alert` e `prompt` para interação. Implementamos `if/else` para decisões, `console` para depuração e loops como `while` para repetição. Criamos um jogo de adivinhação com número secreto, contador de tentativas e *template strings*. Exploramos `Math.random()` para gerar números aleatórios e analisamos documentação para aprimorar o código.
